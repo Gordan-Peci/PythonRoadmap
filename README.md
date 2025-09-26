@@ -1,2 +1,2 @@
-# PythonRoadmap
-This are small project/programs I made during my relearning of Python
+# Python Roadmap
+This are small projects/programs I made during my relearning of Python
