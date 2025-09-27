@@ -1,0 +1,3 @@
+This is a simple hangman that runs in console.
+I used functions which i learned.
+But there is stuff like (char if char in guessed else "_", end=" ") which i didnt know were done liek this.
