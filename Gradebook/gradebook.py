@@ -24,6 +24,7 @@ while True:
     
     elif choice == 3:
         print(gradebook)
+        continue
 
     elif choice == 0:
         break
